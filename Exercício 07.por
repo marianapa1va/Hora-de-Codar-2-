@@ -17,7 +17,7 @@ programa {
     escreva("Digite o quinto valor: ")
     leia(valor5)
 
-    escreva("Digite o sexro valor: ")
+    escreva("Digite o sexto valor: ")
     leia(valor6)
 
     se(valor1<72){soma=valor1
@@ -27,8 +27,8 @@ programa {
     }senao se(valor5<72){soma=valor5
     }senao(valor6<72)soma=valor6
 
-    escreva("\nO valor da soma é: ", valor1 + valor2 + valor3 + valor4 + valor5 + valor6)
-    escreva("\nO valores informados anteriormente são: ", valor1 , "," , valor2 ,",", valor3 ,",", valor4 ,",", valor5 ,",", valor6)
+    escreva("\nO valor da soma Ã©: ", valor1 + valor2 + valor3 + valor4 + valor5 + valor6)
+    escreva("\nOs valores informados anteriormente sÄƒo: ", valor1 , "," , valor2 ,",", valor3 ,",", valor4 ,",", valor5 ,",", valor6)
 
     
   }
