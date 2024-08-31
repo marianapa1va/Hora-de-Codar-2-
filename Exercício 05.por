@@ -22,9 +22,9 @@ programa {
     escreva("Informe o sexto valor: ")
     leia(valor6)
 
-    escreva("Os números informados: ", valor1 ,"," , valor2 ,"," , valor3 ,",", valor4 ,"," , valor5 ,"," , valor6)
+    escreva("Os nÃºmeros informados sÃ£o: ", valor1 ,"," , valor2 ,"," , valor3 ,",", valor4 ,"," , valor5 ,"," , valor6)
 
-    escreva("\n A média aritmética dos valores informados é: " , ( valor1 + valor2 + valor3 + valor4 + valor5 + valor6 ) /6)
+    escreva("\n A mÃ©dia aritmÃ©tica dos valores informados Ã©: " , ( valor1 + valor2 + valor3 + valor4 + valor5 + valor6 ) /6)
 
 
     
