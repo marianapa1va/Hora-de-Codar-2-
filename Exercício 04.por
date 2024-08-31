@@ -21,7 +21,7 @@ programa {
       valormaior2 = valor1
       valormaior2 = valor3
     }
-    escreva("A soma dos dois maiores valores é: ", valormaior1 + valormaior2)
+    escreva("A soma dos dois maiores valores Ã©: ", valormaior1 + valormaior2)
 
   }
 }
