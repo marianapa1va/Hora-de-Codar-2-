@@ -7,19 +7,19 @@ programa {
 
     real soma , sub , div , mult
 
-    escreva("Informe o primeiro número: ")
+    escreva("Informe o primeiro nÃºmero: ")
     leia(valor1)
 
-    escreva("Informe o segundo númeo: ")
+    escreva("Informe o segundo nÃºmero: ")
     leia(valor2)
     
-    escreva("informe a operação que deseja, levando em consideração que o número informado representa uma operação como: (1)=soma, (2)=sub, (3)=div, (4)=mult: ")
+    escreva("informe a operaÃ§Ã£o que deseja, levando em consideraÃ§Ã£o que o nÃºmero informado representa uma operaÃ§Ã£o como: (1)=soma, (2)=sub, (3)=div, (4)=mult: ")
     leia(op)
 
-    se(op == 1 ){escreva("A soma dos valores informados é: " , valor1 + valor2)
-    }se(op == 2){escreva(" A subtração dos valores informados é: ", valor1 - valor2)
-    }se(op == 3){escreva("A divisão dos valores informados é: ", valor1 * valor2)
-    }se(op == 4)escreva("A divisão dos valores informados é: ", valor1 / valor2)
+    se(op == 1 ){escreva("A soma dos valores informados Ã©: " , valor1 + valor2)
+    }se(op == 2){escreva(" A subtraÃ§Ã£o dos valores informados Ã©: ", valor1 - valor2)
+    }se(op == 3){escreva("A multiplicaÃ§Ã£o dos valores informados Ã©: ", valor1 * valor2)
+    }se(op == 4)escreva("A divisÃ£o dos valores informados Ã©: ", valor1 / valor2)
 
   
 
