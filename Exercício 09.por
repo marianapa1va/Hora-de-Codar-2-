@@ -1,8 +1,9 @@
 programa {
   funcao inicio() {
+
     inteiro ano_nascimento
 
-   escreva("Informe o seu ano de nascimento: ")
+   escreva("Informe ano de seu nascimento: ")
    leia(ano_nascimento)
 
    se(ano_nascimento<=2009){escreva("Você já pode votar")
